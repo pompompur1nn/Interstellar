@@ -6,18 +6,6 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Amazon",
     "link": "https://amazon.com/",
     "image": "/assets/media/icons/amazon.webp",
@@ -134,7 +122,7 @@
     "categories": ["all"]
   },
   {
-    "name": "Google",
+    "name": "Google (broken)",
     "link": "https://google.com",
     "image": "/assets/media/icons/google.webp",
     "categories": ["all"]
@@ -186,12 +174,6 @@
     "link": "https://pixlr.com/",
     "image": "/assets/media/icons/pix.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Poki",
-    "link": "https://poki.com",
-    "image": "/assets/media/icons/poki.webp",
-    "categories": ["all", "game"]
   },
   {
     "name": "Premier League",
@@ -521,11 +503,6 @@
     "name": "DeepAI.org",
     "link": "https://deepai.org/",
     "image": "/assets/media/icons/da.webp",
-    "categories": ["all", "ai"]
-  },
-  {
-    "name": "FreedomGPT",
-    "link": "https://chat.freedomgpt.com/",
     "categories": ["all", "ai"]
   },
   {
