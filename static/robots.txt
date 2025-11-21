@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /
 
 User-agent: Googlebot
-Allow: /
+Disallow: /
 
 User-agent: Mediapartners-Google
-Allow: /
+Disallow: /
